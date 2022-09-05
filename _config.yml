@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Giulio Perda
 description         : >-
-                      Welcome to my portfolio!    
+                      Welcome to my portfolio!!    
                       Go to 'Projects' to see what I'm working on.
 baseurl             : ''                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : gperda/gperda.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
